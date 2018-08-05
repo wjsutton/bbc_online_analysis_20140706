@@ -12,4 +12,4 @@ Order of scripts:
 
 Additional files:
 1. "uk_region_hex_plot.csv" takes a list of regions and assigns them an X and Y co-ordinate for a Tableau hex plot.
-2. "programme_schedule_fabric.sql" is a sql extract of programme information from Fabric for 6th July 2014 - in the end not used in the final Tableau workbook.
+2. "programme_schedule_fabric.sql" is a sql extract of programme information from Fabric for all programmes transmitted on 6th July 2014 - in the end not used in the final Tableau workbook.
