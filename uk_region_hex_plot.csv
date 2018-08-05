@@ -1,0 +1,190 @@
+Region,lat_bin,long_bin
+cornwall,50.4,-5
+plymouth,50.4,-4.5
+torbay,50.4,-4
+bournemouth,50.6,-1.75
+devon,50.6,-3.75
+isle of wight,50.6,-1.25
+poole,50.6,-2.25
+brighton and hove,50.8,-1
+dorset,50.8,-2.5
+east sussex,50.8,0
+portsmouth,50.8,-1.5
+somerset,50.8,-3
+southampton,50.8,-2
+west sussex,50.8,-0.5
+hampshire,51,-1.25
+north somerset,51,-2.75
+surrey,51,-0.25
+bath and north east somerset,51.2,-2.5
+greater london,51.2,-0.5
+kent,51.2,0.5
+newport,51.2,-3
+reading,51.2,-1.5
+the vale of glamorgan,51.2,-3.5
+wiltshire,51.2,-2
+wokingham,51.2,-1
+bridgend,51.4,-3.75
+bristol,51.4,-2.75
+cardiff,51.4,-3.25
+medway,51.4,0.75
+slough,51.4,-0.75
+south gloucestershire,51.4,-2.25
+southend-on-sea,51.4,1.25
+swindon,51.4,-1.75
+thurrock,51.4,0.25
+west berkshire,51.4,-1.25
+windsor and maidenhead,51.4,-0.25
+bracknell forest,51.6,-0.5
+buckinghamshire,51.6,-1
+neath port talbot,51.6,-4
+oxfordshire,51.6,-1.5
+rhondda cynon taff,51.6,-3.5
+swansea,51.6,-4.5
+torfaen,51.6,-3
+blaenau gwent,51.8,-3.25
+caerphilly,51.8,-3.75
+carmarthenshire,51.8,-4.25
+essex,51.8,0.75
+gloucestershire,51.8,-2.25
+hertfordshire,51.8,0.25
+luton,51.8,-0.25
+pembrokeshire,51.8,-4.75
+bedford,52,-0.5
+central bedfordshire,52,0
+herefordshire,52,-3
+milton keynes,52,-1
+warwickshire,52,-2
+worcestershire,52,-2.5
+cambridgeshire,52.2,0.25
+ceredigion,52.2,-4.25
+northamptonshire,52.2,-0.75
+powys,52.2,-3.25
+solihull,52.2,-1.75
+suffolk,52.2,1.25
+walsall,52.2,-1.25
+wolverhampton,52.2,-2.25
+birmingham,52.4,-2
+coventry,52.4,-1.5
+dudley,52.4,-3
+rutland,52.4,-1
+sandwell,52.4,-2.5
+leicester,52.6,-0.75
+leicestershire,52.6,-1.25
+norfolk,52.6,0.75
+peterborough,52.6,-0.25
+shropshire,52.6,-2.75
+telford and wrekin,52.6,-2.25
+cheshire west and chester,52.8,-3
+derby,52.8,-1.5
+derbyshire,52.8,-2
+gwynedd,52.8,-4.5
+nottingham,52.8,-1
+staffordshire,52.8,-2.5
+wrexham,52.8,-3.5
+cheshire east,53,-1.75
+conwy,53,-3.75
+denbighshire,53,-3.25
+halton,53,-2.75
+lincolnshire,53,-0.25
+nottinghamshire,53,-1.25
+stoke-on-trent,53,-2.25
+barnsley,53.2,-2
+doncaster,53.2,-1.5
+flintshire,53.2,-4
+liverpool,53.2,-3.5
+stockport,53.2,-2.5
+warrington,53.2,-3
+bolton,53.4,-2.25
+knowsley,53.4,-2.75
+north east lincolnshire,53.4,-0.25
+north lincolnshire,53.4,-0.75
+rotherham,53.4,-1.25
+sefton,53.4,-3.25
+sheffield,53.4,-1.75
+wirral,53.4,-3.75
+bury,53.6,-2.5
+calderdale,53.6,-1.5
+kingston upon hull,53.6,-0.5
+st helens,53.6,-3.5
+trafford,53.6,-2
+wakefield,53.6,-1
+wigan,53.6,-3
+blackpool,53.8,-3.25
+east riding of yorkshire,53.8,-0.25
+kirklees,53.8,-1.25
+lancashire,53.8,-2.75
+manchester,53.8,-1.75
+salford,53.8,-2.25
+york,53.8,-0.75
+leeds,54,-1.5
+newry and mourne,54,-6.5
+north yorkshire,54,-1
+oldham,54,-2.5
+tameside,54,-2
+armagh,54.2,-6.75
+banbridge,54.2,-6.25
+blackburn with darwen,54.2,-2.25
+bradford,54.2,-1.25
+down,54.2,-5.75
+fermanagh,54.2,-7.25
+middlesbrough,54.2,-0.75
+rochdale,54.2,-1.75
+ards,54.4,-5.5
+castlereagh,54.4,-6
+craigavon,54.4,-6.5
+cumbria,54.4,-3
+darlington,54.4,-2
+lisburn,54.4,-7
+redcar and cleveland,54.4,-1
+stockton-on-tees,54.4,-1.5
+belfast,54.6,-6.25
+durham,54.6,-1.75
+hartlepool,54.6,-1.25
+magherafelt,54.6,-6.75
+newtownabbey,54.6,-5.75
+north down,54.6,-5.25
+antrim,54.8,-6.5
+gateshead,54.8,-2
+larne,54.8,-6
+south tyneside,54.8,-1
+sunderland,54.8,-1.5
+derry,55,-6.75
+dumfries and galloway,55,-3.25
+newcastle upon tyne,55,-1.75
+north tyneside,55,-2.25
+east ayrshire,55.2,-4
+northumberland,55.2,-2.5
+south ayrshire,55.2,-4.5
+falkirk,55.6,-3.25
+glasgow city,55.6,-3.75
+renfrewshire,55.6,-4.25
+west lothian,55.6,-2.75
+east dunbartonshire,55.8,-4
+edinburgh,55.8,-3
+inverclyde,55.8,-5
+north ayrshire,55.8,-4.5
+south lanarkshire,55.8,-3.5
+argyll and bute,56,-4.75
+clackmannanshire,56,-2.75
+east renfrewshire,56,-3.75
+north lanarkshire,56,-3.25
+west dunbartonshire,56,-4.25
+fife,56.2,-3
+stirling,56.2,-4
+dundee city,56.4,-2.75
+perth and kinross,56.4,-3.25
+angus,56.6,-3
+aberdeen city,57,-2.25
+highland,57.4,-3.5
+moray,57.4,-3
+orkney islands,57.6,-2.75
+none,57,0.75
+aberdeenshire,57,-2
+ballymoney,56.4,-3.75
+carrickfergus,56.6,-4
+east lothian,56.2,-3.5
+eilean siar,56.6,-3.5
+midlothian,56.8,-3.25
+the scottish borders,55.4,-3
+Unknown,57,0.5
