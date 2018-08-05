@@ -1,6 +1,6 @@
-## BBC Online Analysis
-# Author: Will Sutton
-# Date: 5th August 2018
+# BBC Online Analysis
+### Author: Will Sutton
+### Date: 5th August 2018
 
 R scripts used to process and extract charts for a Tableau visualisation 
 Data set as of Sunday 6th July 2014
